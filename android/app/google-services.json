@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889729889041",
+    "project_id": "skincare-28277",
+    "storage_bucket": "skincare-28277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889729889041:android:9730bafcb85dae007a52b0",
+        "android_client_info": {
+          "package_name": "com.daily.skincare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiOgJBvm0Ek3lGjhMyQjnWlG6fQYEUJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
